@@ -7,8 +7,8 @@
 // @homepage     https://github.com/cyan-n1d3/tera-play
 // @homepageURL  https://github.com/cyan-n1d3/tera-play
 // @supportURL   https://github.com/cyan-n1d3/tera-play/issues
-// @updateURL    https://github.com/cyan-n1d3/tera-play/raw/refs/heads/main/Terabox%20Direct%20Stream%20Player-1patch.user.js
-// @downloadURL  https://github.com/cyan-n1d3/tera-play/raw/refs/heads/main/Terabox%20Direct%20Stream%20Player-1patch.user.js
+// @updateURL    https://github.com/cyan-n1d3/tera-play/raw/main/TeraboxDirectStream.user.js
+// @downloadURL  https://github.com/cyan-n1d3/tera-play/raw/main/TeraboxDirectStream.user.js
 // @icon         https://www.terabox.com/box-static/disk-system/images/favicon.ico
 // @icon64       https://www.terabox.com/box-static/disk-system/images/favicon.ico
 // @match        *://www.terabox.com/*

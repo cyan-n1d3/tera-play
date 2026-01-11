@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Terabox DDL & Stream Player
 // @namespace    https://github.com/cyan-n1d3/
-// @version      0.7
+// @version      0.8
 // @description  Terabox app within web, direct download links, and stream video files directly from Terabox shares.
 // @author       cyan-n1d3
 // @homepage     https://github.com/cyan-n1d3/tera-play
@@ -56,10 +56,6 @@
 
 (function () {
     'use strict';
-    
-    if (location.hostname != "terabox.com") {
-        window.location.hostname = "terabox.com";
-    }
 
     const C = {
         DEBUG: false,
