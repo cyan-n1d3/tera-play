@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Terabox DDL & Stream Player
 // @namespace    https://github.com/cyan-n1d3/
-// @version      0.8
+// @version      0.8.0
 // @description  Terabox app within web, direct download links, and stream video files directly from Terabox shares.
 // @author       cyan-n1d3
 // @homepage     https://github.com/cyan-n1d3/tera-play
@@ -44,7 +44,6 @@
 // @match        *://www.terafileshare.com/*
 // @match        *://terafileshare.com/*
 // @match        *://*.terafileshare.com/*
-// @grant        unsafeWindow
 // @run-at       document-end
 // @license      MIT
 // @compatible   chrome Compatible with Tampermonkey and Violentmonkey
